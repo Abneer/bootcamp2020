@@ -1,2 +1,2 @@
 # bootcamp2020
-New Project for BootCamp2020
+Basic Website for Bootcamp Practice
